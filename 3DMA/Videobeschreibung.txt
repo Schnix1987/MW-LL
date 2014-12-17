@@ -1,0 +1,75 @@
+Studienprojekt HS-Fulda
+Stereoskopische Blenderanimation
+
+
+Music by:
+
+"The Descent" Kevin MacLeod 
+(incompetech.com) 
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+
+http://incompetech.com/music/royalty-free/index.html?feels%5B%5D=Epic&page=1
+
+
+Sounds by:
+
+#241262__lewis100011__sci-fi-engine# -->
+https://www.freesound.org/people/lewis100011/sounds/241262/
+
+#33943__scarbelly25__flamewind# -->
+https://www.freesound.org/people/scarbelly25/sounds/33943/
+
+#110112__ryansnook__huge-explosion# -->
+https://www.freesound.org/people/CGEffex/sounds/93844/
+
+#78674__joe93barlow__on0# Lightsaber on-->
+https://www.freesound.org/people/joe93barlow/sounds/78674/
+
+#47127__gyzhor__lightsaber5# -->
+https://www.freesound.org/people/gyzhor/sounds/47127/
+
+
+Textures by:
+
+backsteine2:	
+http://de.gde-fon.com/download/Textur_Backstein_Wand/505173/3000x2000
+
+baumrinde 2:	
+http://www.cgtextures.com/texview.php?id=17362&PHPSESSID=8qsl6nce7ac6v1aph0fjasrtg7
+
+blatt:		
+http://www.cgtextures.com/texview.php?id=27464&PHPSESSID=8qsl6nce7ac6v1aph0fjasrtg7
+
+cloudmap:	
+http://kexitt.deviantart.com/art/Earth-cloud-map-457411692
+
+topobumpmap:	
+http://www.shadedrelief.com/natural3/pages/extra.html
+
+boden:		
+http://www.cgtextures.com/texview.php?id=48631&PHPSESSID=8qsl6nce7ac6v1aph0fjasrtg7
+
+rock2:		
+http://www.cgtextures.com/texview.php?id=56223&PHPSESSID=8qsl6nce7ac6v1aph0fjasrtg7
+
+holz9:		
+http://www.cgtextures.com/texview.php?id=16166&PHPSESSID=8qsl6nce7ac6v1aph0fjasrtg7
+
+earth-map:
+https://tancap.in/earth-map-wallpapers.html
+
+
+Models by:
+
+#nextexitpro# Tie Fighter		
+http://www.turbosquid.com/AssetManager/Index.cfm?stgAction=getFiles&subAction=Download&intID=578244&intType=3
+
+#Unixseb# Sternzerstörer
+http://www.blendswap.com/blends/view/63201
+
+
+Font by:
+
+DISTAGOR
+http://www.mediafont.com/font-1264-distant_galaxy_altoutline.php
